@@ -12,13 +12,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-header#banner a {
-    color: #e0e0e0;
-    text-decoration: none;
+header#banner a:hover {
+  background-color: red;
 }
 
-header#banner nav ul li a {
-    color: #cccccc;
+header#banner a:hover {
+  background-color: red;
 }
 
 main#content a {
@@ -42,7 +41,7 @@ main#content ul#posts small {
 }
 
 main#content ul#posts li a:hover {
-    color: #21c7ff;
+  background-color: red;
 }
 
 main#content header#post-header div {

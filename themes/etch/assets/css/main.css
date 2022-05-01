@@ -27,7 +27,7 @@ header#banner a {
 }
 
 header#banner a:hover {
-    text-decoration: underline;
+  background-color: #EA2626;
 }
 
 header#banner h2 {
@@ -64,7 +64,7 @@ main#content a {
 }
 
 main#content a:hover {
-    text-decoration: underline;
+  background-color: #EA2626;
 }
 
 main#content h1,
@@ -131,7 +131,7 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-    color: #369aff;
+    color: #EA2626;
 }
 
 main#content ul#posts li a:hover small {
