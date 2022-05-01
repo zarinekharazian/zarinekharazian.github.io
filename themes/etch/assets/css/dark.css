@@ -12,7 +12,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-header#banner a:hover {
+header#banner a:hover {color: #a7a7a7;
   background-color: red;
 }
 
