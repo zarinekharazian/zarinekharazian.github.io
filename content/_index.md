@@ -16,4 +16,15 @@ I recieved my B.A. in Government and French & Francophone Studies in 2017 from t
 
 I created this page as a repository for my academic work. There's not much on it yet, but I am hoping to update it with various projects I am working on in the near future. Stay tuned.
 
-{{< fa fab github 2x >}}
+<p align="center">
+<a href="https://twitter.com/zkharazian">
+  <img src="twitter.svg" style="border:0px;margin:5px;" width="40">
+</a>
+
+<a href="https://github.com/zarinekharazian">
+  <img src="github.svg" style="border:0px;margin:5px;" width="40">
+</a>
+
+<a href="https://scholar.google.com/citations?user=aL4EOY4AAAAJ&hl=en">
+  <img src="googlescholar.svg" style="border:0px;margin:5px;" width="40">
+</a>

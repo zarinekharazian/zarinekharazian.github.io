@@ -6,7 +6,7 @@ enableInlineShortcodes: yes
 pygmentsCodeFences: yes
 pygmentsUseClasses: yes
 params:
-  copyright: Copyright © 2022 zarine kharazian
+  copyright: copyright © 2022 zarine kharazian
   dark: on 
   highlight: true
 menu:
