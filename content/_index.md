@@ -16,4 +16,4 @@ I recieved my B.A. in Government and French & Francophone Studies in 2017 from t
 
 I created this page as a repository for my academic work. There's not much on it yet, but I am hoping to update it with various projects I am working on in the near future. Stay tuned.
 
-<i class="fas fa-heart"></i>
+{{< fa fab github 2x >}}
