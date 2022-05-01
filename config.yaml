@@ -1,4 +1,4 @@
-baseURL: https://zarinekharazian.github.io/
+baseURL: "https://zarinekharazian.github.io/"
 title: zarine kharazian
 theme: etch
 languageCode: en-US
@@ -9,7 +9,7 @@ params:
   copyright: Copyright © 2021 zarine kharazian
   dark: on 
   description: Your site description
-  highlight: true 
+  highlight: true
 menu:
   main:
     - identifier: posts
