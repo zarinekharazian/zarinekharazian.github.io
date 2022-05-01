@@ -6,7 +6,7 @@ enableInlineShortcodes: yes
 pygmentsCodeFences: yes
 pygmentsUseClasses: yes
 params:
-  copyright: Copyright © 2021 zarine kharazian
+  copyright: Copyright © 2022 zarine kharazian
   dark: on 
   description: Your site description
   highlight: true
@@ -17,10 +17,10 @@ menu:
       title: posts
       url: /
       weight: 10
-    - identifier: about
-      name: about
-      title: about
-      url: /about/
+    - identifier: cv
+      name: cv
+      title: cv
+      url: /cv.pdf
       weight: 20
 permalinks:
   posts: /:title/
