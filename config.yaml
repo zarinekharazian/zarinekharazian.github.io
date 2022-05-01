@@ -15,7 +15,7 @@ menu:
     - identifier: posts
       name: posts
       title: posts
-      url: /
+      url: /posts
       weight: 10
     - identifier: cv
       name: cv
