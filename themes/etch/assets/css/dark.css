@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    color: #ebebeb;
+    color: #fffcfc;
     background: #121212;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -16,7 +16,7 @@ header#banner a:hover {color: #fcfafa;
   background-color: red;
 }
 
-header#banner a:hover {
+header#banner a:hover {color: #fcfafa;
   background-color: red;
 }
 
@@ -29,7 +29,7 @@ main#content p {
 }
 
 main#content hr {
-    background: #5c5c5c;
+    background: #fcfafa;
 }
 
 main#content #toc h4 {
