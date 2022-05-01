@@ -24,6 +24,7 @@ menu:
 
 permalinks:
   posts: /:title/
+  
 markup:
   goldmark:
     renderer:
