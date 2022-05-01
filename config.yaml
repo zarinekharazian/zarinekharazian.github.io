@@ -22,8 +22,9 @@ menu:
       title: cv
       url: /cv.pdf
       weight: 20
-#permalinks:
-#  posts: /:title/
+
+permalinks:
+  posts: /:title/
 markup:
   goldmark:
     renderer:
