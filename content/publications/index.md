@@ -4,7 +4,7 @@ title: publications
 
 #### journal articles
 
-Kharazian, Z. "[Yet Another French Exception: The Political Dimensions of France's Support for the Right to be Forgotten.](doi:10.21552/edpl/2017/4/7)" European Data Protection Law Review 3.4.
+Kharazian, Z. "[Yet Another French Exception: The Political Dimensions of France's Support for the Right to be Forgotten.](https://edpl.lexxion.eu/article/EDPL/2017/4/7?_locale=de)" European Data Protection Law Review 3.4.
 
 #### other published work
 
