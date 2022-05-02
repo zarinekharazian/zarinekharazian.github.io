@@ -21,6 +21,11 @@ menu:
       title: cv
       url: /cv.pdf
       weight: 20
+    - identifier: publications
+      name: publications
+      title: publications
+      url: /publications
+      weight: 30
 
 permalinks:
   posts: /:title/ 
