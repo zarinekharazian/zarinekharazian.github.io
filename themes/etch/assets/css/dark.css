@@ -37,15 +37,15 @@ main#content #toc h4 {
 }
 
 main#content ul#posts small {
-    color: #a7a7a7;
+    color: #fcfafa;
 }
 
-main#content ul#posts li a:hover {
+main#content ul#posts li a:hover { color: white;
   background-color: red;
 }
 
 main#content header#post-header div {
-    color: #a7a7a7;
+    color: #fcfafa;
 }
 {{- if not (eq .Site.Params.dark "on") -}}
 }

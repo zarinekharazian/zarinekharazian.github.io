@@ -118,11 +118,12 @@ main#content ul#posts {
 main#content ul#posts li {
     margin: 5px 0;
     padding: 0;
+    color: blue;
 }
 
 main#content ul#posts small {
     font-size: 0.8em;
-    color: #767676;
+    color: blue;
     margin-left: 10px;
 }
 
@@ -131,11 +132,11 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-    color: #EA2626;
+    color: white;
 }
 
 main#content ul#posts li a:hover small {
-    color: inherit;
+    color: white;
 }
 
 /* single.html styles */
