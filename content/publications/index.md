@@ -16,4 +16,4 @@ Kharazian, Z. "[Walkthrough: Tracking the spread of the debunked Plandemic video
 
 Brooking, E., Kann, A., and Z. Kharazian. "[Disinformation about 'antifa' provides fodder for foreign propagandists](https://medium.com/dfrlab/thedisinformation-campaign-to-define-u-s-protesters-as-terrorists-3ea8db0a4881)." DFRLab Medium Post.
 
-Kharazian, Z., and T. Knight. "[Why the debunked COVID-19 conspiracy video 'Plandemic' won't go away](https://medium.com/dfrlab/why-thedebunked-covid-19-conspiracy-video-plandemic-wont-go-away-c9dd36c2037c)." DFRLab Medium Post. .
+Kharazian, Z., and T. Knight. "[Why the debunked COVID-19 conspiracy video 'Plandemic' won't go away](https://medium.com/dfrlab/why-thedebunked-covid-19-conspiracy-video-plandemic-wont-go-away-c9dd36c2037c)." DFRLab Medium Post.
