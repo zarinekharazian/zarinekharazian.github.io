@@ -7,7 +7,7 @@ pygmentsCodeFences: yes
 pygmentsUseClasses: yes
 params:
   copyright: copyright © 2022 zarine kharazian
-  dark: on 
+  dark: auto 
   highlight: true
 menu:
   main:
