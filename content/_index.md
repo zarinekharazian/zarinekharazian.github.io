@@ -20,6 +20,8 @@ I recieved my B.A. in Government and French & Francophone Studies in 2017 from t
 
 I created this page as a repository for my academic work. I am hoping to update it with various projects I am working on in the near future. So, stay tuned.
 
+Want to reach me? Send an email to zkharaz at uw dot edu, or send me a message on [Linkedin](https://www.linkedin.com/in/zarinekharazian/).
+
 *P.S. I made this static site in [RMarkdown + Hugo](https://bookdown.org/yihui/blogdown/static-sites.html), using the [Etch theme](https://github.com/LukasJoswiak/etch).*
 
 <center>
