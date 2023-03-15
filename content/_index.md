@@ -20,6 +20,8 @@ I recieved my B.A. in Government and French & Francophone Studies in 2017 from t
 
 I created this page as a repository for my academic work. I am hoping to update it with various projects I am working on in the near future. So, stay tuned.
 
+*P.S. I made this static site in [RMarkdown + Hugo](https://bookdown.org/yihui/blogdown/static-sites.html), using the [Etch theme](https://github.com/LukasJoswiak/etch).*
+
 <center>
     <div class="icons-container">
         <a href="https://twitter.com/zkharazian"> <img src="twitter.svg" style="border:0px;margin:5px;" width="40"/> </a> 
@@ -27,5 +29,3 @@ I created this page as a repository for my academic work. I am hoping to update 
         <a href="https://scholar.google.com/citations?user=aL4EOY4AAAAJ&hl=en"> <img src="googlescholar.svg" style="border:0px;margin:5px;" width="40"/> </a>
     </div>
 </center>
-
-*P.S. I made this static site in [RMarkdown + Hugo](https://bookdown.org/yihui/blogdown/static-sites.html), using the [Etch theme](https://github.com/LukasJoswiak/etch).*
