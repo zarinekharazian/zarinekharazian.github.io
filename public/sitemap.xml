@@ -2,72 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zarinekharazian.github.io/categories/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/</loc>
+    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zarinekharazian.github.io/hello-r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/posts/</loc>
+    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zarinekharazian.github.io/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/tbd./</loc>
+    <lastmod>2022-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zarinekharazian.github.io/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/about/</loc>
   </url><url>
-    <loc>https://zarinekharazian.github.io/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/categories/</loc>
   </url><url>
-    <loc>https://zarinekharazian.github.io/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://zarine.net/publications/</loc>
   </url><url>
-    <loc>https://zarinekharazian.github.io/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zarinekharazian.github.io/about/</loc>
+    <loc>https://zarine.net/tags/</loc>
   </url>
 </urlset>
