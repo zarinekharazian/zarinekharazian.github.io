@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Your site description"
-  copyright = "copyright © 2022 zarine kharazian"
+  copyright = "copyright © 2023 zarine kharazian"
   dark = "on"
   highlight = true
 
@@ -17,7 +17,7 @@ pygmentsUseClasses = true
     identifier = "posts"
     name = "posts"
     title = "posts"
-    url = "/"
+    url = "/posts/"
     weight = 10
 
   [[menu.main]]
