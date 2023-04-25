@@ -3,6 +3,7 @@
 author = "Zarine Kharazian" 
 title = "Presenting on capture in self-governing communities at Wiki Workshop 2023" 
 date = "2023-04-25"
+tags = "news"
 
 +++
 
