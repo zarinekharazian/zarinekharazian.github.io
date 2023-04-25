@@ -4,13 +4,13 @@ title: publications
 
 **conference proceedings**
 
-Prochaska, S., Duskin, K., **Kharazian, Z.**, Minow, C., Blucker, S., Venuto, S., West, J., Starbird, K. (2023). Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election. *Proceedings of the ACM on Human-Computer Interaction*, 7(*CSCW*), Article 140 (*in press).*
+Prochaska, S., Duskin, K., **Kharazian, Z.**, Minow, C., Blucker, S., Venuto, S., West, J., Starbird, K. (2023). [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election](https://doi.org/10.1145/3579616). *Proceedings of the ACM on Human-Computer Interaction*, 7(*CSCW*), Article 140.
 
 #### journal articles
 
 **Kharazian, Z.** "[Yet Another French Exception: The Political Dimensions of France's Support for the Right to be Forgotten.](https://edpl.lexxion.eu/article/EDPL/2017/4/7?_locale=de)" *European Data Protection Law Review 3.4*.
 
-#### selected public research 
+#### selected public research
 
 Prochaska, S., Duskin, K., Nguyễn, S., **Kharazian, Z.**, Schafer, J., Starbird, K., and M. Caulfield. "[Voting Rights Legislation Framed to Support Election Conspiracy Theories About Non-citizens Voting](https://www.eipartnership.net/blog/non-citizen-voting-conspiracy-theory)." Election Integrity Partnership.
 
