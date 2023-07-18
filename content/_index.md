@@ -12,7 +12,7 @@ Welcome! I am Zarine, a second-year PhD student in the [Department of Human-Cent
 
 My research focuses on how online communities **govern and are governed** as they navigate disinformation, cyber-enabled influence operations, and related online harms. I am interested in both top-down dynamics, **governance by platforms, governments, and international bodies**, as well as bottom-up dynamics, **the myriad ways online communities experiment with and enact models of self-governance**.
 
-I use mixed methods, combining ethnographic interviews with computational analyses of digital trace data, to study information flows and governance mechanisms across a variety of platforms -- from Twitter, to Telegram, to Wikipedia.
+I use mixed methods, combining interviews with computational analyses of digital trace data, to study information flows and governance mechanisms across a variety of platforms -- from Twitter, to Telegram, to Wikipedia.
 
 Previously, I was an associate editor at the Atlantic Council's [Digital Forensic Research Lab (DFRLab)](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/), where I edited and researched investigations about disinformation and related phenomena. Prior to that, I was the assistant editor of the International Enforcement Law Reporter, where I covered cybersecurity and data protection issues.
 
