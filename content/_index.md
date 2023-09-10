@@ -8,7 +8,7 @@ title: Home
 
 </p>
 
-Welcome! I am Zarine, a third-year PhD student in the [Department of Human-Centered Design & Engineering (HCDE)](https://www.hcde.washington.edu/) at the University of Washington. At UW, I work with two research groups: the [Center for an Informed Public](https://www.cip.uw.edu/) and the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page).
+Welcome! I'm Zarine, a third-year PhD student in the [Department of Human-Centered Design & Engineering (HCDE)](https://www.hcde.washington.edu/) at the University of Washington. At UW, I work with two research groups: the [Center for an Informed Public](https://www.cip.uw.edu/) and the [Community Data Science Collective](https://wiki.communitydata.science/Main_Page).
 
 My research focuses on how online communities **govern and are governed** as they navigate disinformation, cyber-enabled influence operations, and related online harms. I am interested in both top-down dynamics, **governance by platforms, governments, and international bodies**, as well as bottom-up dynamics, in **the myriad ways online communities experiment with and enact models of self-governance**.
 
@@ -18,11 +18,7 @@ Previously, I was an associate editor at the Atlantic Council's [Digital Forensi
 
 I received my B.A. in Government and French & Francophone Studies in 2017 from the College of William & Mary, where I also worked as a research assistant in the Social Networks and Political Psychology (SNaPP) Lab studying the psychological underpinnings of political behavior, both online and offline.
 
-I created this page as a repository for my academic work. I am hoping to update it with various projects I am working on in the near future. So, stay tuned.
-
 Want to reach me? Send an email to zkharaz at uw dot edu, or send me a message on [Linkedin](https://www.linkedin.com/in/zarinekharazian/).
-
-*P.S. I made this static site in [RMarkdown + Hugo](https://bookdown.org/yihui/blogdown/static-sites.html), using the [Etch theme](https://github.com/LukasJoswiak/etch).*
 
 <center>
     <div class="icons-container">
