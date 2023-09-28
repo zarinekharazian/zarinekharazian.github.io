@@ -24,10 +24,16 @@ I received my B.A. in Government and French & Francophone Studies in 2017 from t
 
 Want to reach me? Send an email to zkharaz at uw dot edu, or send me a message on [Linkedin](https://www.linkedin.com/in/zarinekharazian/).
 
+<style>
+  .icons-container a {
+    text-decoration: none !important; /* Remove underline */
+  }
+</style>
+
 <center>
-<div class="icons-container">
-  <a href="https://twitter.com/zkharazian"> <img src="twitter.svg" style="border:0px;margin:5px;" width="40"/> </a> 
-  <a href="https://github.com/zarinekharazian"> <img src="github.svg" style="border:0px;margin:5px;" width="40"/> </a>
-  <a href="https://scholar.google.com/citations?user=aL4EOY4AAAAJ&hl=en"> <img src="googlescholar.svg" style="border:0px;margin:5px;" width="40"/> </a>
-</div>
+  <div class="icons-container">
+    <a href="https://twitter.com/zkharazian"> <img src="twitter.svg" style="border:0px;margin:5px;" width="40"/> </a> 
+    <a href="https://github.com/zarinekharazian"> <img src="github.svg" style="border:0px;margin:5px;" width="40"/> </a>
+    <a href="https://scholar.google.com/citations?user=aL4EOY4AAAAJ&hl=en"> <img src="googlescholar.svg" style="border:0px;margin:5px;" width="40"/> </a>
+  </div>
 </center>
