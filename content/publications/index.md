@@ -2,15 +2,11 @@
 title: publications
 ---
 
-**conference proceedings** [^1]
+**conference proceedings and journals**
 
-[^1]: *In human-computer interaction and related fields, unlike in the social sciences, conference proceedings are the main publication venue for peer-reviewed and archival work.*
-
-**Kharazian, Zarine**, Kate Starbird, and Benjamin Mako Hill. (2024). Governance Capture in a Self-Governing Community: A Qualitative Comparison of Serbo-Croatian Wikipedias. *Proceedings of the ACM on Human-Computer Interaction*, (*CSCW*), forthcoming.
+**Kharazian, Zarine**, Kate Starbird, and Benjamin Mako Hill. (2024). Governance Capture in a Self-Governing Community: A Qualitative Comparison of Serbo-Croatian Wikipedias. *Proceedings of the ACM on Human-Computer Interaction*, (*CSCW*), accepted Oct 2023, forthcoming.
 
 Prochaska, Stephen, Kayla Duskin, **Zarine Kharazian,** Carly Minow, Stephanie Blucker, Sylvie Venuto, Jevin West, and Kate Starbird. (2023). [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election](https://doi.org/10.1145/3579616). *Proceedings of the ACM on Human-Computer Interaction*, 7(*CSCW*), Article 140.
-
-#### journal articles
 
 **Kharazian, Zarine.** "[Yet Another French Exception: The Political Dimensions of France's Support for the Right to be Forgotten.](https://edpl.lexxion.eu/article/EDPL/2017/4/7?_locale=de)" *European Data Protection Law Review 3.4*.
 
