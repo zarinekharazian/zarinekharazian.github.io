@@ -16,9 +16,9 @@ My research focuses on the participatory dynamics of online influence operations
 
 By governance, I mean:
 
--   The top-down rules and policies imposed *by* more centralized platforms, such as Facebook, to regulate the speech and behavior of users;
+-   the top-down rules and policies imposed *by* more centralized platforms, such as Facebook, to regulate the speech and behavior of users;
 
--   The regulation *of* these platforms by governments and international bodies; and
+-   the regulation *of* these platforms by governments and international bodies; and
 
 -   the myriad forms of bottom-up *self-rule* that online communities on platforms such as Wikipedia and Reddit enact for themselves.
 
