@@ -12,11 +12,15 @@ Welcome! I'm Zarine, a third-year PhD student in the [Department of Human-Center
 
 I'm advised by Kate Starbird and Benjamin Mako Hill.
 
-My research focuses on how online communities **govern and are governed** as they navigate disinformation, cyber-enabled influence operations, and related online harms. I am interested in:
+My research focuses on the participatory dynamics of online influence operations and the interaction of these dynamics with the governance of social computing systems and the online communities that populate them.
 
--   Governance by platforms, governments, and international bodies; and
+By governance, I mean:
 
--   The myriad ways online communities experiment with and enact models of self-governance.
+-   The top-down rules and policies imposed *by* more centralized platforms, such as Facebook, to regulate the speech and behavior of users;
+
+-   The regulation *of* these platforms by governments and international bodies; and
+
+-   the myriad forms of bottom-up *self-rule* that online communities on platforms such as Wikipedia and Reddit enact for themselves.
 
 Previously, I was an associate editor at the Atlantic Council's [Digital Forensic Research Lab (DFRLab)](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/), where I edited and researched investigations about disinformation and related phenomena. Prior to that, I was the assistant editor of the International Enforcement Law Reporter, where I covered cybersecurity and data protection issues.
 
