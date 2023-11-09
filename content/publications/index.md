@@ -4,7 +4,7 @@ title: publications
 
 **conference proceedings and journals**
 
-**Kharazian, Zarine**, Kate Starbird, and Benjamin Mako Hill. (2024). Governance Capture in a Self-Governing Community: A Qualitative Comparison of Serbo-Croatian Wikipedias. *Proceedings of the ACM on Human-Computer Interaction*, (*CSCW*), accepted Oct 2023, forthcoming.
+**Kharazian, Zarine**, Kate Starbird, and Benjamin Mako Hill. (2024). [Governance Capture in a Self-Governing Community: A Qualitative Comparison of Serbo-Croatian Wikipedias](https://arxiv.org/abs/2311.03616). *Proceedings of the ACM on Human-Computer Interaction*, (*CSCW*), accepted Oct 2023, forthcoming.
 
 Prochaska, Stephen, Kayla Duskin, **Zarine Kharazian,** Carly Minow, Stephanie Blucker, Sylvie Venuto, Jevin West, and Kate Starbird. (2023). [Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election](https://doi.org/10.1145/3579616). *Proceedings of the ACM on Human-Computer Interaction*, 7(*CSCW*), Article 140.
 
