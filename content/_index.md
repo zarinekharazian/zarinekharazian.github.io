@@ -14,18 +14,6 @@ I'm advised by Kate Starbird and Benjamin Mako Hill.
 
 My research focuses on the participatory dynamics of online influence operations and the interaction of these dynamics with the governance of social computing systems and the online communities that populate them.
 
-By governance, I mean:
-
--   the top-down rules and policies imposed *by* more centralized platforms, such as Facebook, to regulate the speech and behavior of users;
-
--   the regulation *of* these platforms by governments and international bodies; and
-
--   the myriad forms of bottom-up *self-rule* that online communities on platforms such as Wikipedia and Reddit enact for themselves.
-
-Previously, I was an associate editor at the Atlantic Council's [Digital Forensic Research Lab (DFRLab)](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/), where I edited and researched investigations about disinformation and related phenomena. Prior to that, I was the assistant editor of the International Enforcement Law Reporter, where I covered cybersecurity and data protection issues.
-
-I received my B.A. in Government and French & Francophone Studies in 2017 from the College of William & Mary, where I also worked as a research assistant in the Social Networks and Political Psychology (SNaPP) Lab studying the psychological underpinnings of political behavior, both online and offline.
-
 Want to reach me? Send an email to zkharaz at uw dot edu, or send me a message on [Linkedin](https://www.linkedin.com/in/zarinekharazian/).
 
 <style>

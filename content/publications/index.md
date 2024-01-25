@@ -12,6 +12,8 @@ Prochaska, Stephen, Kayla Duskin, **Zarine Kharazian,** Carly Minow, Stephanie B
 
 #### selected public research
 
+**Kharazian**, **Zarine**, Madeline Jalbert, and Saloni Dash. "[Our field was built on decades-old bodies of research across a range of disciplines. It wasn’t invented by a ‘class of misinformation experts’ in 2016](https://www.cip.uw.edu/2024/01/24/misinformation-field-research/)." Center For an Informed Public.
+
 Prochaska, Stephen, Kayla Duskin, Sarah Nguyễn, **Zarine** **Kharazian,** Joey Schafer, Kate Starbird, and Mike Caulfield. "[Voting Rights Legislation Framed to Support Election Conspiracy Theories About Non-citizens Voting](https://www.eipartnership.net/blog/non-citizen-voting-conspiracy-theory)." Election Integrity Partnership.
 
 **Kharazian, Zarine**, and Tessa Knight. "[Facebook removes inauthentic assets linked to the Philippine military](https://dfrlab.org/2020/09/22/facebook-removes-inauthentic-assets-linked-to-the-philippine-military/)." DFRLab.
