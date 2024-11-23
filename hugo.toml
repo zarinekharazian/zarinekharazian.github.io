@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     identifier = "cv"
     name = "cv"
     title = "cv"
-    url = "/kharazian_cv.pdf"
+    url = "kharazian_cv.pdf"
     weight = 30
 
 
