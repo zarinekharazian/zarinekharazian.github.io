@@ -1,3 +1,47 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://zarine.net"
+title = "zarine kharazian"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = " "
+  copyright = "copyright © 2024 zarine kharazian"
+  dark = "off"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "publications"
+    title = "publications"
+    url = "/publications/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "cv"
+    name = "cv"
+    title = "cv"
+    url = "/kharazian_cv.pdf"
+    weight = 30
+
+
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
