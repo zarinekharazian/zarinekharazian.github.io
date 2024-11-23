@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on zarine kharazian</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on zarine kharazian</description>
+    <title>Text on zarine kharazian</title>
+    <link>http://localhost:1313/tags/text/</link>
+    <description>Recent content in Text on zarine kharazian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/text/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>On the challenges of governing the online commons</title>
+      <title>On The Challenges of Governing the Online Commons</title>
       <link>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/commons.jpg&#34; alt=&#34;Picture: Inkylab. License: CC-BY-SA 4.0&#34;&gt;
-&lt;em&gt;Figure 1: Picture: Inkylab. License: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;img src=&#34;http://localhost:1313/assets/img/commons.jpg&#34; alt=&#34;Picture: Inkylab. License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)&#34; style=&#34;width:100%;&#34;&gt;
+&lt;p&gt;&#34;Elinor Ostrom and the eight principles of governing the commons.&#34; Picture: Inkylab. License: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post was originally published on The Community Data Science Collective&amp;rsquo;s &lt;a href=&#34;https://blog.communitydata.science/on-the-challenges-of-governing-the-online-commons/&#34;&gt;blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Over the past several months (&lt;a href=&#34;https://zarine.net/posts/2024-05-24-generals&#34;&gt;post-general exam&lt;/a&gt;!), I have been thinking and reading about organizational and institutional perspectives on the governance of platforms and the online communities that populate them. While much of the research on the emerging area of “platform governance”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; draws from legal traditions or socio-technical approaches, there is also a smaller subset of scholars drawing from political science and democratic theory, thinking about designing governance structures at the level of groups, organizations, and institutions that prove resilient to various collective threats.&lt;/p&gt;
 &lt;p&gt;I think these approaches hold a lot of promise. As far as addressing one collective threat I am interested in – the strategic manipulation of information environments – most interventions I have seen have either focused on empowering individuals to be more discerning of the information they encounter online or proposing structural changes to features of platforms, such as algorithmic ranking, that dampen the virality of false or misleading information. These are, respectively, micro and macro-level interventions. The integration of participatory and distributed self-governance approaches into existing and emerging platforms is distinct: it is a meso-level intervention, and meso-level approaches remain both theoretically and empirically under-explored in discussions of platform governance.&lt;/p&gt;
@@ -86,6 +87,56 @@ The CPRs Ostrom studied were already facing uncertain and complex background con
       <description>&lt;p&gt;I am presenting at &lt;a href=&#34;https://wikiworkshop.org/2023/&#34;&gt;Wiki Workshop 2023&lt;/a&gt; on May 11! My talk, based on some ongoing work, is titled: “Governance Capture in A Self-Governing Community,” and is a qualitative interview study diving deep into the institutional and organizational factors that led to the capture of Croatian Wikipedia’s governance mechanisms by a group of far-right editors.&lt;/p&gt;
 &lt;p&gt;To hear more, register for Wiki Workshop (free and virtual) &lt;a href=&#34;https://pretix.eu/wikimedia/wikiworkshop2023/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;
+&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
+&lt;li&gt;Duce pollice&lt;/li&gt;
+&lt;li&gt;Eris modo&lt;/li&gt;
+&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
+silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
+tractus malis.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
+&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
+&lt;li&gt;Flumen querellas&lt;/li&gt;
+&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
+&lt;li&gt;Quidem et&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
+&lt;p&gt;&lt;svg class=&#34;canon&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; overflow=&#34;visible&#34; viewBox=&#34;0 0 496 373&#34; height=&#34;373&#34; width=&#34;496&#34;&gt;&lt;g fill=&#34;none&#34;&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#ED1C24&#34; stroke-width=&#34;.75&#34; d=&#34;M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z&#34;&gt;&lt;/path&gt;&lt;path stroke=&#34;#000&#34; stroke-width=&#34;.75&#34; d=&#34;M.479.375h495v372h-495zM247.979.875v372&#34;&gt;&lt;/path&gt;&lt;ellipse cx=&#34;498.729&#34; cy=&#34;177.625&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;ellipse cx=&#34;247.229&#34; cy=&#34;377.375&#34; rx=&#34;.75&#34; ry=&#34;1.25&#34;&gt;&lt;/ellipse&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
+&lt;p&gt;Victa caducifer, malo vulnere contra
+dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere
+furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
+&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli
+Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare
+Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert
+ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae
+vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
+&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem
+Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;style&gt;
+.canon { background: white; width: 100%; height: auto;}
+&lt;/style&gt;</description>
     </item>
     
     

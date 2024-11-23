@@ -37,7 +37,7 @@ pygmentsUseClasses = true
 
 
 [permalinks]
-  posts = "/:title/"
+  posts = ""
 
 [markup.goldmark.renderer]
   # Allow HTML in Markdown

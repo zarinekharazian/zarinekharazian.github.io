@@ -1,13 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zarine kharazian</title>
+    <title>Home on zarine kharazian</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on zarine kharazian</description>
+    <description>Recent content in Home on zarine kharazian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>On the challenges of governing the online commons</title>
+      <link>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/commons.jpg&#34; alt=&#34;Picture: Inkylab. License: CC-BY-SA 4.0&#34;&gt;
+&lt;em&gt;Figure 1: Picture: Inkylab. License: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post was originally published on The Community Data Science Collective&amp;rsquo;s &lt;a href=&#34;https://blog.communitydata.science/on-the-challenges-of-governing-the-online-commons/&#34;&gt;blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Over the past several months (&lt;a href=&#34;https://zarine.net/posts/2024-05-24-generals&#34;&gt;post-general exam&lt;/a&gt;!), I have been thinking and reading about organizational and institutional perspectives on the governance of platforms and the online communities that populate them. While much of the research on the emerging area of “platform governance”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; draws from legal traditions or socio-technical approaches, there is also a smaller subset of scholars drawing from political science and democratic theory, thinking about designing governance structures at the level of groups, organizations, and institutions that prove resilient to various collective threats.&lt;/p&gt;
+&lt;p&gt;I think these approaches hold a lot of promise. As far as addressing one collective threat I am interested in – the strategic manipulation of information environments – most interventions I have seen have either focused on empowering individuals to be more discerning of the information they encounter online or proposing structural changes to features of platforms, such as algorithmic ranking, that dampen the virality of false or misleading information. These are, respectively, micro and macro-level interventions. The integration of participatory and distributed self-governance approaches into existing and emerging platforms is distinct: it is a meso-level intervention, and meso-level approaches remain both theoretically and empirically under-explored in discussions of platform governance.&lt;/p&gt;
+&lt;p&gt;I recently read three works that do explore this meso layer, however: Paul Gowder’s &lt;em&gt;&lt;a href=&#34;https://networked-leviathan.com/&#34;&gt;The Networked Leviathan&lt;/a&gt;&lt;/em&gt;, Nathan Schneider’s &lt;em&gt;&lt;a href=&#34;https://luminosoa.org/site/books/m/10.1525/luminos.181/&#34;&gt;Governable Spaces&lt;/a&gt;&lt;/em&gt;, and Jennifer Forestal’s &lt;em&gt;&lt;a href=&#34;https://www.journals.uchicago.edu/doi/full/10.1086/709300&#34;&gt;Beyond Gatekeeping&lt;/a&gt;&lt;/em&gt;. All three draw on the work of scholars that look at governance dynamics in offline spaces – in particular, the ideas of political economist Elinor Ostrom and philosopher John Dewey feature prominently – to argue that centralized platforms that practice top-down content moderation are fundamentally hostile to democratic inquiry and practice. Gowder, for example, describes this condition as a “democratic deficit” in the form of governance structures that are fundamentally unaccountable to their users. Naturally, this democratic deficit leads to negative outcomes – online spaces are easily manipulated and degraded by motivated actors. To guard against this, Gowder, Schneider, and Forestal offer various proposals for the integration of participatory structures into these platforms –ones composed of workers, civil society members, and everyday users — into platform governance and decision-marking.&lt;/p&gt;
+&lt;p&gt;I am on board with these approaches’ diagnosis of the problem, but I think the proposed solutions require more iteration. One thing I worry about is that proposals for integrating participatory and distributed governance into online platforms do not sufficiently take into account the qualitative differences between online spaces and the offline settings researchers have previously studied. When I was reading Ostrom’s &lt;a href=&#34;https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5&#34;&gt;&lt;em&gt;Governing the Commons&lt;/em&gt;&lt;/a&gt;, for example, from which many of these interventions take at least some inspiration, I was struck by the three similarities that she noted virtually all of the common-pool resource settings she analyzed shared:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;They had stable populations over long periods of time.&lt;/strong&gt; Here’s how Ostrom describes it: “Individuals have shared a past and expect to share a future. It is important for individuals to maintain their reputations as reliable members of the community. These individuals live side by side and farm the same plots year after year. They expect their children and their grandchildren to inherit their land. In other words, their discount rates are low. If costly investments in provision are made at one point in time, the proprietors – or their families – are likely to reap the benefits.”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Norms of reciprocity and interdependence evolved in these settings among a largely similar group of individuals with shared interests.&lt;/strong&gt; Ostrom explains: “Many of these norms make it feasible for individuals to live in close interdependence on many fronts without excessive conflict. Further, a reputation for keeping promises, honest dealings, and reliability in one arena is a valuable asset. Prudent, long-term self-interest reinforces the acceptance of the norms of proper behavior. None of these situations involves participants who vary greatly in regard to ownership of assets, skills, knowledge. ethnicity, race, or other variables that could strongly divide a group of individuals (R.Johnson and Libecap 1982).”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;These cases were the success stories!&lt;/strong&gt; Ostrom clarifies that the cases she analyzed “were specifically selected because they have endured while others have failed.” In other words, they already had sustainable resource systems and robust institutions in place.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most (virtually all?) online platforms, and the communities that inhabit them, do not share these properties. In online spaces, individuals tend to be geographically scattered across the globe, and there’s no incentive to sustainably maintain the community for future generations to inherit, like there is with a plot of land. Moreover, members of online communities tend to have varying levels of commitment, and the anonymity and distance offered by technology makes norms of social reciprocity and interdependence harder (although not impossible) to cultivate.
+The CPRs Ostrom studied were already facing uncertain and complex background conditions — but they also possessed distinct qualities conducive for success. I generally think online spaces, and the digital institutions that govern them, do not possess these qualities, and are thus even more vulnerable to threats like appropriation, pollution, or &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3637338&#34;&gt;capture&lt;/a&gt; than the CPRs Ostrom studied. Because of this, I think a direct porting of most of Ostrom’s design principles to online governing institutions is probably insufficient. But I see an evolved set of these principles that explicitly addresses the power differentials and adversarial incentives &lt;a href=&#34;https://digitalcommons.pace.edu/plr/vol35/iss1/5/&#34;&gt;baked into the design of social software&lt;/a&gt; as one way forward. What these principles could look like should be the subject of future empirical research, and maybe a future post on this blog. I am excited that researchers are exploring these meso-level interventions, which is where I think a lot of the solution lies.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1573914&#34;&gt;Gorwa (2019)&lt;/a&gt; offers a definition of platform governance: “a concept intended to capture the layers of governance relationships structuring interactions between key parties in today’s platform society, including platform companies, users, advertisers, governments, and other political actors.” ↩&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Passed my General Exam!</title>
+      <link>http://localhost:1313/posts/2024-05-24-generals/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-05-24-generals/</guid>
+      <description>&lt;p&gt;As part of the requirements for my PhD in HCDE, I was required to complete a &lt;a href=&#34;https://www.hcde.washington.edu/phd/general-exam&#34;&gt;General Exam&lt;/a&gt; with reading, writing, and oral examination components. My exam spanned three areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Theories&lt;/em&gt; on governance, political communication, the organization of digital publics, and online and offline institutional design, change, and evolution;&lt;/li&gt;
+&lt;li&gt;Qualitative and quantitative empirical &lt;em&gt;methods&lt;/em&gt; in the social sciences, including process tracing, comparative case study approaches, and computational approaches to analyzing digital trace data;&lt;/li&gt;
+&lt;li&gt;A &lt;em&gt;concentration&lt;/em&gt; focused on definitional questions about online rumors, disinformation, propaganda, and influence operations, and the implications of these phenomena for the design of both online and offline organizations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In preparing my reading list, I found it helpful to look through others&amp;rsquo; materials for their exams. For those studying for their own generals, I have made my reading list available here: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1UxRtriNZu-7dtJMyif65iOlkKB1h_YEfltDp8sspiZs/edit?usp=sharing&#34;&gt;Zarine&amp;rsquo;s Generals Reading List&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>New essay addressing some (mis)perceptions of misinformation research</title>
+      <link>http://localhost:1313/posts/2024-01-24-misinfo-essay/</link>
+      <pubDate>Wed, 24 Jan 2024 15:59:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-01-24-misinfo-essay/</guid>
+      <description>&lt;p&gt;In a &lt;a href=&#34;https://www.cip.uw.edu/2024/01/24/misinformation-field-research/&#34;&gt;new essay&lt;/a&gt;, my colleagues and I at the Center for an Informed Public respond to recent arguments that claim concern over misinformation constitutes a “moral panic.” We counter that many of these critiques mischaracterize the very field they critique, by ignoring interpretivist and critical perspectives that many researchers consider foundational.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As a multidisciplinary area of inquiry, misinformation studies perhaps does not lend itself to straightforward, systematic cataloging across what Orlikowski and Baroudi called “schools of thought.” The fact that there even are multiple competing perspectives may be missed altogether in large part because scholars working in disparate disciplines may not explicitly frame their work in conversation with one another. But we maintain that any maturing area of inquiry can only be made richer by more, not less, systematic study from varying epistemological perspectives.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Presenting on capture in self-governing communities at Wiki Workshop 2023</title>
+      <link>http://localhost:1313/posts/2023-04-25-wiki-workshop/</link>
+      <pubDate>Tue, 25 Apr 2023 16:11:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/2023-04-25-wiki-workshop/</guid>
+      <description>&lt;p&gt;I am presenting at &lt;a href=&#34;https://wikiworkshop.org/2023/&#34;&gt;Wiki Workshop 2023&lt;/a&gt; on May 11! My talk, based on some ongoing work, is titled: “Governance Capture in A Self-Governing Community,” and is a qualitative interview study diving deep into the institutional and organizational factors that led to the capture of Croatian Wikipedia’s governance mechanisms by a group of far-right editors.&lt;/p&gt;
+&lt;p&gt;To hear more, register for Wiki Workshop (free and virtual) &lt;a href=&#34;https://pretix.eu/wikimedia/wikiworkshop2023/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     
   </channel>
