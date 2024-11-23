@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on zarine kharazian</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Home on zarine kharazian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>On the challenges of governing the online commons</title>
-      <link>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</link>
+      <link>//localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/commons.jpg&#34; alt=&#34;Picture: Inkylab. License: CC-BY-SA 4.0&#34;&gt;
+      <guid>//localhost:1313/posts/2024-11-20-on-the-challenges-of-governing-the-online-commons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/commons.jpg&#34; alt=&#34;Picture: Inkylab. License: CC-BY-SA 4.0&#34;&gt;
 &lt;em&gt;Figure 1: Picture: Inkylab. License: &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post was originally published on The Community Data Science Collective&amp;rsquo;s &lt;a href=&#34;https://blog.communitydata.science/on-the-challenges-of-governing-the-online-commons/&#34;&gt;blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Over the past several months (&lt;a href=&#34;https://zarine.net/posts/2024-05-24-generals&#34;&gt;post-general exam&lt;/a&gt;!), I have been thinking and reading about organizational and institutional perspectives on the governance of platforms and the online communities that populate them. While much of the research on the emerging area of “platform governance”&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; draws from legal traditions or socio-technical approaches, there is also a smaller subset of scholars drawing from political science and democratic theory, thinking about designing governance structures at the level of groups, organizations, and institutions that prove resilient to various collective threats.&lt;/p&gt;
@@ -47,10 +47,10 @@ The CPRs Ostrom studied were already facing uncertain and complex background con
     
     <item>
       <title>Passed my General Exam!</title>
-      <link>http://localhost:1313/posts/2024-05-24-generals/</link>
+      <link>//localhost:1313/posts/2024-05-24-generals/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-05-24-generals/</guid>
+      <guid>//localhost:1313/posts/2024-05-24-generals/</guid>
       <description>&lt;p&gt;As part of the requirements for my PhD in HCDE, I was required to complete a &lt;a href=&#34;https://www.hcde.washington.edu/phd/general-exam&#34;&gt;General Exam&lt;/a&gt; with reading, writing, and oral examination components. My exam spanned three areas:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Theories&lt;/em&gt; on governance, political communication, the organization of digital publics, and online and offline institutional design, change, and evolution;&lt;/li&gt;
@@ -65,10 +65,10 @@ The CPRs Ostrom studied were already facing uncertain and complex background con
     
     <item>
       <title>New essay addressing some (mis)perceptions of misinformation research</title>
-      <link>http://localhost:1313/posts/2024-01-24-misinfo-essay/</link>
+      <link>//localhost:1313/posts/2024-01-24-misinfo-essay/</link>
       <pubDate>Wed, 24 Jan 2024 15:59:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-01-24-misinfo-essay/</guid>
+      <guid>//localhost:1313/posts/2024-01-24-misinfo-essay/</guid>
       <description>&lt;p&gt;In a &lt;a href=&#34;https://www.cip.uw.edu/2024/01/24/misinformation-field-research/&#34;&gt;new essay&lt;/a&gt;, my colleagues and I at the Center for an Informed Public respond to recent arguments that claim concern over misinformation constitutes a “moral panic.” We counter that many of these critiques mischaracterize the very field they critique, by ignoring interpretivist and critical perspectives that many researchers consider foundational.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As a multidisciplinary area of inquiry, misinformation studies perhaps does not lend itself to straightforward, systematic cataloging across what Orlikowski and Baroudi called “schools of thought.” The fact that there even are multiple competing perspectives may be missed altogether in large part because scholars working in disparate disciplines may not explicitly frame their work in conversation with one another. But we maintain that any maturing area of inquiry can only be made richer by more, not less, systematic study from varying epistemological perspectives.&lt;/p&gt;
@@ -80,14 +80,16 @@ The CPRs Ostrom studied were already facing uncertain and complex background con
     
     <item>
       <title>Presenting on capture in self-governing communities at Wiki Workshop 2023</title>
-      <link>http://localhost:1313/posts/2023-04-25-wiki-workshop/</link>
+      <link>//localhost:1313/posts/2023-04-25-wiki-workshop/</link>
       <pubDate>Tue, 25 Apr 2023 16:11:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-04-25-wiki-workshop/</guid>
+      <guid>//localhost:1313/posts/2023-04-25-wiki-workshop/</guid>
       <description>&lt;p&gt;I am presenting at &lt;a href=&#34;https://wikiworkshop.org/2023/&#34;&gt;Wiki Workshop 2023&lt;/a&gt; on May 11! My talk, based on some ongoing work, is titled: “Governance Capture in A Self-Governing Community,” and is a qualitative interview study diving deep into the institutional and organizational factors that led to the capture of Croatian Wikipedia’s governance mechanisms by a group of far-right editors.&lt;/p&gt;
 &lt;p&gt;To hear more, register for Wiki Workshop (free and virtual) &lt;a href=&#34;https://pretix.eu/wikimedia/wikiworkshop2023/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
+    
+    
     
     
   </channel>

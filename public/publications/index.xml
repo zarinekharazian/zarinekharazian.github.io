@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on zarine kharazian</title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on zarine kharazian</description>
+    <title>publications on zarine kharazian</title>
+    <link>//localhost:1313/publications/</link>
+    <description>Recent content in publications on zarine kharazian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -87,8 +87,6 @@ The CPRs Ostrom studied were already facing uncertain and complex background con
 &lt;p&gt;To hear more, register for Wiki Workshop (free and virtual) &lt;a href=&#34;https://pretix.eu/wikimedia/wikiworkshop2023/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
-    
-    
     
     
   </channel>

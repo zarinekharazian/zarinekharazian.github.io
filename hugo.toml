@@ -1,4 +1,4 @@
-baseURL = "https://zarine.net"
+baseURL = "zarinekharazian.github.io"
 title = "zarine kharazian"
 theme = "etch"
 languageCode = "en-US"
@@ -17,9 +17,9 @@ pygmentsUseClasses = true
     identifier = "posts"
     name = "posts"
     title = "posts"
-    url = "/"
+    url = "/posts/"
     weight = 10
-
+  
   [[menu.main]]
     identifier = "publications"
     name = "publications"
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     identifier = "cv"
     name = "cv"
     title = "cv"
-    url = "kharazian_cv.pdf"
+    url = "/kharazian_cv.pdf"
     weight = 30
 
 
