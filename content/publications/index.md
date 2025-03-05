@@ -2,7 +2,7 @@
 title: "publications"
 ---
 
-*For a complete list, see my CV.* 
+*For a complete list, see my [CV](https://zarine.net/kharazian_cv.pdf).* 
 
 ## articles and conference proceedings 
 
