@@ -8,7 +8,7 @@ title: "publications"
 
 Miyashita, Naomi, Zarine Kharazian, Laura De Backer, and Kate Starbird. “How
 Disinformation Affects U.N. Peacekeeping Operations: Two Case Studies from the Central
-African Republic.” International Peacekeeping. [DOI:10.1080/13533312.2025.2470342](https://doi.org/10.1080/13533312.2025.2470342). [PDF](https://github.com/zarinekharazian/zarinekharazian.github.io/blob/main/static/Miyashita_et_al_2025.pdf)
+African Republic.” International Peacekeeping. [DOI:10.1080/13533312.2025.2470342](https://doi.org/10.1080/13533312.2025.2470342). [Ungated PDF](https://zarine.net/Miyashita_et_al_2025.pdf)
 
 Kharazian, Zarine, Starbird, Kate, and Hill, Benjamin Mako. *Governance Capture in a Self-Governing Community: A Qualitative Comparison of the Croatian, Serbian, Bosnian, and Serbo-Croatian Wikipedias.* Proceedings of the ACM on Human-Computer Interaction, vol. 8, no. 1, April 2024, pp. 61:1–61:26. [DOI:10.1145/3637338](https://dl.acm.org/doi/10.1145/3637338).
 
