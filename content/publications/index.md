@@ -6,15 +6,15 @@ title: "publications"
 
 ## articles and conference proceedings 
 
-Miyashita, Naomi, Zarine Kharazian, Laura De Backer, and Kate Starbird. “How
+Miyashita, Naomi, Zarine Kharazian, Laura De Backer, and Kate Starbird. *How
 Disinformation Affects U.N. Peacekeeping Operations: Two Case Studies from the Central
-African Republic.” International Peacekeeping. [DOI:10.1080/13533312.2025.2470342](https://doi.org/10.1080/13533312.2025.2470342). [Ungated PDF](https://zarine.net/Miyashita_et_al_2025.pdf)
+African Republic.* International Peacekeeping. [DOI:10.1080/13533312.2025.2470342](https://doi.org/10.1080/13533312.2025.2470342). [Ungated PDF](https://zarine.net/Miyashita_et_al_2025.pdf)
 
-Kharazian, Zarine, Starbird, Kate, and Hill, Benjamin Mako. *Governance Capture in a Self-Governing Community: A Qualitative Comparison of the Croatian, Serbian, Bosnian, and Serbo-Croatian Wikipedias.* Proceedings of the ACM on Human-Computer Interaction, vol. 8, no. 1, April 2024, pp. 61:1–61:26. [DOI:10.1145/3637338](https://dl.acm.org/doi/10.1145/3637338).
+Kharazian, Zarine, Starbird, Kate, and Hill, Benjamin Mako. *Governance Capture in a Self-Governing Community: A Qualitative Comparison of the Croatian, Serbian, Bosnian, and Serbo-Croatian Wikipedias.* CSCW 2024. [DOI:10.1145/3637338](https://dl.acm.org/doi/10.1145/3637338).
 
-Prochaska, Stephen, Duskin, Kayla, Kharazian, Zarine, Minow, Carly, Blucker, Stephanie, Venuto, Sylvie, West, Jevin D., and Starbird, Kate. *Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election.* Proceedings of the ACM on Human-Computer Interaction, vol. 7, no. 1, April 2023, pp. 1–39. [DOI:10.1145/3579616](https://dl.acm.org/doi/abs/10.1145/3579616).
+Prochaska, Stephen, Duskin, Kayla, Kharazian, Zarine, Minow, Carly, Blucker, Stephanie, Venuto, Sylvie, West, Jevin D., and Starbird, Kate. *Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election.* CSCW 2023. [DOI:10.1145/3579616](https://dl.acm.org/doi/abs/10.1145/3579616).
 
-Kharazian, Zarine. *Yet Another French Exception: The Political Dimensions of France's Support for the Digital Right to Be Forgotten.* European Data Protection Law Review, vol. 3, no. 4, April 2017, pp. 452–462. [DOI:10.21552](https://doi.org/10.21552/edpl/2017/4/7).
+Kharazian, Zarine. *Yet Another French Exception: The Political Dimensions of France's Support for the Digital Right to Be Forgotten.* European Data Protection Law Review, vol. 3, no. 4, April 2017. [DOI:10.21552](https://doi.org/10.21552/edpl/2017/4/7).
 
 
 ## public memos and essays 
