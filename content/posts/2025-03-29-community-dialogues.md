@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community Dialogue talk on information manipuation and online governance
+title: Community Dialogue talk on information manipulation and online governance
 date: 2025-03-24 
 inline: false
 related_posts: false
