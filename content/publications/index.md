@@ -6,7 +6,7 @@ title: "publications"
 
 ## articles and conference proceedings 
 
-Kharazian, Zarine and Benjamin Mako Hill. *Epistemic Infrastructure Under Attack: Conceptualizing the Capture and Destruction of Public KnowledgeInstitutions.* Under Review. [Preprint](https://osf.io/preprints/socarxiv/vxumb_v1)
+Kharazian, Zarine and Benjamin Mako Hill. *Epistemic Infrastructure Under Attack: Conceptualizing the Capture and Destruction of Public Knowledge Institutions.* Under Review. [Preprint](https://osf.io/preprints/socarxiv/vxumb_v1)
 
 Miyashita, Naomi, Zarine Kharazian, Laura De Backer, and Kate Starbird. *How
 Disinformation Affects U.N. Peacekeeping Operations: Two Case Studies from the Central
