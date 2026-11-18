@@ -6,7 +6,9 @@ title: "publications"
 
 ## articles and conference proceedings 
 
-Kharazian, Zarine and Benjamin Mako Hill. *Epistemic Infrastructure Under Attack: Conceptualizing the Capture and Destruction of Public Knowledge Institutions.* Under Review. [Preprint](https://osf.io/preprints/socarxiv/vxumb_v1)
+Kharazian, Zarine, Adiza Awwal, Rachel Moran, and Kate Starbird. *Pseudo-Events As Mobilizing Vehicles in Participatory Propaganda Campaigns: Evidence From a U.S. Election.* Forthcoming in the Journal of Digital Social Research. 
+
+Kharazian, Zarine and Benjamin Mako Hill. *Epistemic Infrastructure Under Attack: Conceptualizing the Capture and Destruction of Public Knowledge Institutions.* [Preprint](https://osf.io/preprints/socarxiv/vxumb_v1)
 
 Miyashita, Naomi, Zarine Kharazian, Laura De Backer, and Kate Starbird. *How
 Disinformation Affects U.N. Peacekeeping Operations: Two Case Studies from the Central
@@ -16,12 +18,17 @@ Kharazian, Zarine, Starbird, Kate, and Hill, Benjamin Mako. *Governance Capture 
 
 Prochaska, Stephen, Duskin, Kayla, Kharazian, Zarine, Minow, Carly, Blucker, Stephanie, Venuto, Sylvie, West, Jevin D., and Starbird, Kate. *Mobilizing Manufactured Reality: How Participatory Disinformation Shaped Deep Stories to Catalyze Action during the 2020 U.S. Presidential Election.* CSCW 2023. [DOI:10.1145/3579616](https://dl.acm.org/doi/abs/10.1145/3579616).
 
-Kharazian, Zarine. *Yet Another French Exception: The Political Dimensions of France's Support for the Digital Right to Be Forgotten.* European Data Protection Law Review, vol. 3, no. 4, April 2017. [DOI:10.21552](https://doi.org/10.21552/edpl/2017/4/7).
+Kharazian, Zarine. *The Political Dimensions of France's Support for the Digital Right to Be Forgotten.* European Data Protection Law Review, vol. 3, no. 4, April 2017. [DOI:10.21552](https://doi.org/10.21552/edpl/2017/4/7).
 
 
-## public memos and essays 
+## public writing
 
-Prochaska, Stephen, Duskin, Kayla, Nguyễn, Sarah, Kharazian, Zarine, Schafer, Joey, Starbird, Kate, and Caulfield, Mike. *Voting Rights Legislation Framed to Support Election Conspiracy Theories About Non-citizens Voting.* Election Integrity Partnership, 2024. [Link](https://www.eipartnership.net/blog/non-citizen-voting-conspiracy-theory).
+Durkovich, Caitlin and Zarine Kharazian. *How Polls Can Help or Hurt Democracy.* Brennan Center at NYU Law. 
+[Link](https://www.brennancenter.org/our-work/analysis-opinion/how-polls-can-help-or-hurt-democracy).
+
+
+Lurie, Kate  and Zarine Kharazian. *Threat of Foreign Influence on U.S. Elections Remains as Federal Defenses Recede.* Brennan Center at NYU Law. 
+[Link](https://www.brennancenter.org/our-work/research-reports/threat-foreign-influence-us-elections-remain-federal-defenses-recede).
 
 Kharazian, Zarine, Jalbert, Madeline, Dash, Saloni, Memon, Shahan Ali, Starbird, Kate, Spiro, Emma S., and West, Jevin D. *Our field was built on decades-old bodies of research across a range of disciplines. It wasn’t invented by a ‘class of misinformation experts’ in 2016.* Center for an Informed Public, 2024. [Link](https://www.cip.uw.edu/2024/01/24/misinformation-field-research/).
 
